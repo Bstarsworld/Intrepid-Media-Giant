@@ -1,0 +1,6 @@
+{
+  "name": "Intrepid Media Giant",
+  "description": "Futuristic, sleek, and high-end video production agency crafting cinematic brand films, high-converting commercial campaigns, and visionary growth media.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
